@@ -1,0 +1,6 @@
+ReformedIndex -i <inputFile> <parameters>
+-h skip hydrogens
+-m sum double and triple bonds as many bonds
+-format <JSON|[TEXT]|CSV>
+-i input file name
+-formula <formula1,...,formulaN> (with no spacces)

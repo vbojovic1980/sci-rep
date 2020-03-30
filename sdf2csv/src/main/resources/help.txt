@@ -1,0 +1,6 @@
+Usage:
+java -jar sdf2csv.jar <file.sdf>
+
+Note: One file with metadata (file.csv) will be created.
+This version doesn't export coordinates.
+
